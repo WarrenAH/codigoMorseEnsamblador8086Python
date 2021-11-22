@@ -85,7 +85,6 @@ def subirADropbox():
     print("El mensaje fue subido a Dropbox.")
 
 def desicion():
-    global contarTiempoMultiproceso
     escoger = input("¿Desea responder al mensaje? Presione 1, en caso contrario presione 2 para salir.\n")
     escoger=int(escoger)
 
