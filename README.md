@@ -14,7 +14,7 @@
   4. pantalla
 
 ## ¿Cuál es la funcion del programa?
-El programa es una recreación de comunicación en código morse de una computadora a otra (emisor y receptor). Se utilizo PyCharm como IDE de Python y emu8086 de Intel 8086 (lenguaje ensamblador), para la administración de archivos se utilizó Dropbox, de esta manera no importa donde se encuentre la persona se podrá comunicar gracias a internet.
+- El programa es una recreación de comunicación en código morse de una computadora a otra (emisor y receptor). Se utilizo PyCharm como IDE de Python y emu8086 de Intel 8086 (lenguaje ensamblador), para la administración de archivos se utilizó Dropbox, de esta manera no importa donde se encuentre la persona se podrá comunicar gracias a internet.
 
 ## ¿Como utilizo el programa?
 1. Se debe tener una cuenta de Dropbox.
@@ -28,7 +28,7 @@ El programa es una recreación de comunicación en código morse de una computad
 9. Si el código de Python de emisor o receptor falla gracias a Dropbox verificar que se tenga un token actualizado del API de Dropbox, ya que cada cierto tiempo se actualiza.
 
 ## ¿Como creo el API de Dropbox en caso de que ya haya creado mi cuenta?
-Ingrese al siguiente link: https://www.dropbox.com/developers/apps/create
+- Ingrese al siguiente link: https://www.dropbox.com/developers/apps/create
 
 ## Video de referencia
 - En este video explico el código del programa y como crear el API de Dropbox:
